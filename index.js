@@ -11,7 +11,7 @@ window.addEventListener('resize', resize) // listent to page resize changes
 
 let colors = ["red", "orange", "blue", "black", "green"]
 
-let speed = 2
+let speed = 3
 let color = colors[rand(5)];
 const boxSize = 50, batWidth = 100
 let right = (rand(2) % 2 == 0) ? true : false;
