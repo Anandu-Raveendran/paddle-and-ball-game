@@ -118,6 +118,7 @@ setLife()
 
 function myFunction(event) {
    bx = event.touches[0].clientX;
+   drawBat(bx);
 }
 
 function move() {
