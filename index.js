@@ -116,6 +116,10 @@ function setLife() {
 }
 setLife()
 
+function myFunction(event) {
+   bx = event.touches[0].clientX;
+}
+
 function move() {
 
     drawSquare(x, y);
