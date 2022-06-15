@@ -11,7 +11,7 @@
     <br />
 	    <a href="https://anandu-raveendran.github.io/paddle-and-ball-game/"> Veiw Demo
   </a>
-<img src = "https://github.com/Anandu-Raveendran/paddle-and-ball-game/main/ping_pong.png?raw=true"/>
+<img src = "https://github.com/Anandu-Raveendran/paddle-and-ball-game/blob/main/ping_pong.png"/>
 
 </div>
 
