@@ -9,8 +9,12 @@
   <p align="center">
 	A simple paddle and ball game made in HTMl and Javascript
     <br />
+	  <br />
+	   <br />
 	    <a href="https://anandu-raveendran.github.io/paddle-and-ball-game/"> Veiw Demo
   </a>
+	  <br/>
+	  <br/>
 <img src = "https://github.com/Anandu-Raveendran/paddle-and-ball-game/blob/main/ping_pong.png"/>
 
 </div>
