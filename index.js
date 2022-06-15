@@ -68,7 +68,7 @@ function detectCollision() {
     if (y <= 0) {
         down = true
     }
-    if ((y + boxSize >= canvas.height - 10)) {
+    if ((y + boxSize >= canvas.height - 5)) {
 
 
         if ((x + boxSize >= bx) && (x <= (bx + batWidth))) {
