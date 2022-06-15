@@ -3,7 +3,7 @@
 const canvas = document.getElementById('canvas');
 const resize = () => {
     canvas.width = window.innerWidth - 20;
-    canvas.height = window.innerHeight - 100;
+    canvas.height = window.innerHeight - 200;
 }
 resize() // resize the canvas to fit the whole page
 window.addEventListener('resize', resize) // listent to page resize changes
